@@ -3,7 +3,7 @@ Today, we have an example including dataset and notebook about how to build a ne
 If you are more interested about it you may also visit our youtube videos where we explain how to code this system from scratch.
 
 
-<img src="image_classification_7.jpg" alt="This is an example among our results" width="720" >
+<img src="image_classification_7.JPG" alt="This is an example among our results" width="720" >
 
 📺 **YouTube'daki tam eğitim videosunu izleyin:** [YouTube Linki](https://www.youtube.com/watch?v=u9SMgh-NV6s)
 
