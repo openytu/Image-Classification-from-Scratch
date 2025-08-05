@@ -6,6 +6,6 @@
   
   <img src="image_classification_7.JPG" alt="This is an example among our results" width="500" >
   
-  📺 **You can watch our videos in Youtube:** [YouTube Linki](https://www.youtube.com/watch?v=u9SMgh-NV6s)
+  📺 **You can watch our videos in Youtube:** [YouTube Linki](https://youtu.be/xvXsnyDzLlo?si=xobTPx1s2UYx_W8t)
 
 
